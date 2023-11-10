@@ -1,0 +1,9 @@
+#countDown{
+    font-family: sans-serif;
+    /* margin-left: 40%;
+    margin-top: 22%; */
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
